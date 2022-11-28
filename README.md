@@ -21,5 +21,5 @@
 [![](https://img.shields.io/badge/YouTube-red?logo=YouTube&logoColor=red&labelColor=white)](https://www.youtube.com/c/anonim404)
 <br><img title="piton" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
-#Guid install
+# Guide install
 gatau ah pikir aja sendiri.
