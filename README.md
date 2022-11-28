@@ -22,8 +22,8 @@
 <br><img title="piton" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 # Guide install
-$pip install requests bs4 futures rich
-$git clone https://github.com/noe999x/noebot
-$rm -rf noebot
-$cd noebot
-$Aowkwowkok error ya? mikir lah sendiri.
+$pip install requests bs4 futures rich<br>
+$git clone https://github.com/noe999x/noebot<br>
+$rm -rf noebot<br>
+$cd noebot<br>
+aowkwowkok error ya? mikir lah sendiri.</br>
