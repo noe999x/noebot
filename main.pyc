@@ -209,7 +209,7 @@ def susu_kagura():
         tree.add(Panel.fit(f"\rShare {n}")).add(f"\r[cyan]{ua}[reset]")
         tree.add(Panel.fit(f"\r[green]Success[reset]")).add(f"\r{link}\n");nancy(f'\rWait 🚥')
         nancy(tree)
-    try:nancy(f'{FW}\rDone {FC}{n} {FW}share!');exit()
+    try:nancy(f'{FW}\rDone {FC}{n} {FW}share!');os.system('exit')
     except:pass
     else:
          print("\n")
@@ -246,7 +246,7 @@ def susu_keqing():
                     tree.add(Panel.fit(f"Comment {a}")).add(f"\r[cyan]{ua}[reset]")
                     tree.add(Panel.fit(f"\r[green]Success[reset]")).add(f"\r{userid}\n");nancy(f'\rWait 🚥')
                     nancy(tree)
-            try:nancy(f'{FW}\rDone {FC}{a} {FW}comment!');exit()
+            try:nancy(f'{FW}\rDone {FC}{a} {FW}comment!');os.system('exit')
             except:pass
             else:
                  print("\n")
